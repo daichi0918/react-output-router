@@ -17,6 +17,12 @@ export const TopTodo = () => {
       <section>
         <input type="text" placeholder="Search KeyWord"/>
       </section>
+      <section>
+        <ul>
+          <li>Todo1</li>
+          <li>Todo2</li>
+        </ul>
+      </section>
     </div>
   )
 }
